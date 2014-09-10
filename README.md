@@ -6,6 +6,8 @@ resources: 1
 
 # JS Test Driven Calculator
 
+## Description
+
 Create an object oriented calculator.
 
 ## Steps
