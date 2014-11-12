@@ -1,9 +1,9 @@
 ---
-languages: javascript, DEPRECATED
+languages: javascript
 tags: js, classical,  oo, object oriented, calculator, DEPRECATED
 resources: 1
+type: lab
 ---
-#__DEPRECATED__
 
 # JS Test Driven Calculator
 
