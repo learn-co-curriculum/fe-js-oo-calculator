@@ -1,6 +1,6 @@
 ---
 languages: javascript
-tags: js, classical,  oo, object oriented, calculator, DEPRECATED
+tags: js, classical,  oo, object oriented, calculator
 resources: 1
 type: lab
 ---
