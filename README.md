@@ -2,9 +2,12 @@
 languages: javascript
 tags: js, classical,  oo, object oriented, calculator
 resources: 1
+type: lab
 ---
 
 # JS Test Driven Calculator
+
+## Description
 
 Create an object oriented calculator.
 
