@@ -69,11 +69,11 @@ describe("Calculator", function() {
 
     describe("Bad User Input", function(){
 
-      it("reports 'Not a Number' when the first number given is a non number type", function() {
+      it("reports NaN when the first number given is a non number type", function() {
         expect(calc.input("foo","+",7)).toBeNaN();
       });
 
-       it("reports 'Not a Number' when the second number given is a non number type", function() {
+       it("reports NaN when the second number given is a non number type", function() {
         expect(calc.input(7,"+","foo")).toBeNaN();
       });
 
